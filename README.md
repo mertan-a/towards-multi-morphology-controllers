@@ -10,3 +10,11 @@ We use QD to build an archive of robot-controller pairs with distinct morphologi
 <img src="images/teaser.png"></img>
 </div>
 
+## Main components of the code
+
+There are three main components:
+
+1) [QD for domain exploration](src/main.py) -- runs MAP-Elites algorithm to build an archive of solutions.
+2) [Dataset creation](src/create_dataset.py) -- takes an archive and creates a dataset by simulating individuals.
+3) [Distillation](src/distill.py) -- takes a dataset and trains a network with it in a supervised fashion.
+
