@@ -18,3 +18,9 @@ There are three main components:
 2) [Dataset creation](src/create_dataset.py) -- takes an archive and creates a dataset by simulating individuals.
 3) [Distillation](src/distill.py) -- takes a dataset and trains a network with it in a supervised fashion.
 
+## Watch the behaviors of the robots
+
+With a little bit of explanation as well:
+
+https://github.com/mertan-a/towards-multi-morphology-controllers/assets/34231008/e4cf08af-ed28-47c1-a89a-6736ef25e236
+
