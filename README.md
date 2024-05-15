@@ -1,6 +1,6 @@
 # Towards multi-morphology controllers
 
-This is the code for the paper "Towards Multi-Morphology Controllers with Diversity and Knowledge Distillation"
+This is the code for the paper "Towards Multi-Morphology Controllers with Diversity and Knowledge Distillation" [arXiv](https://arxiv.org/abs/2404.14625)
 
 ## A *really* short summary
 
